@@ -1,0 +1,41 @@
+{
+                "private_path": "private/pulse_detect_fsk.c",
+                "private_start_line": 168,
+                "private_end_line": 207,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "174,178",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "197,201",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "188,189",
+                                        "os": "302,303"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/options.c",
+                "os_path_start_line": 287,
+                "os_path_end_line": 316
+}

@@ -1,0 +1,42 @@
+{
+                "private_path": "private/fineoffset_wh1080.c",
+                "private_start_line": 124,
+                "private_end_line": 151,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "131,131",
+                                                        "os": "36,36"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "139,143",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "131,135",
+                                        "os": "36,40"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/features.c",
+                "os_path_start_line": 29,
+                "os_path_end_line": 52
+}

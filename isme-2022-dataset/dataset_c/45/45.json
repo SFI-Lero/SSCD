@@ -1,0 +1,42 @@
+{
+                "private_path": "private/interlogix.c",
+                "private_start_line": 216,
+                "private_end_line": 240,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "228,228",
+                                                        "os": "118,118"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "223,227",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "228,236",
+                                        "os": "118,126"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/geo_disambiguation.c",
+                "os_path_start_line": 111,
+                "os_path_end_line": 130
+}

@@ -1,0 +1,67 @@
+{
+                "private_path": "private/conduit_utils_c.cpp",
+                "private_start_line": 70.0,
+                "private_end_line": 85.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "74,74",
+                                                        "os": "166,166"
+                                                    },
+                                                    {
+                                                        "private": "77,77",
+                                                        "os": "170,170"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "74,74",
+                                                        "os": "166,166"
+                                                    },
+                                                    {
+                                                        "private": "77,77",
+                                                        "os": "170,170"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "74,74",
+                                                        "os": "166,166"
+                                                    },
+                                                    {
+                                                        "private": "77,77",
+                                                        "os": "170,170"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "168,168"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "172,172"
+                                    },
+                                    {
+                                        "private": "84,84",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/GeometryPyCXX.cpp",
+                "os_path_start_line": 162.0,
+                "os_path_end_line": 177.0
+}

@@ -1,0 +1,40 @@
+{
+                "private_path": "private/conduit_error.cpp",
+                "private_start_line": 113.0,
+                "private_end_line": 132.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "106,107"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "109,109"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "122,122"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/DocumentPyImp.cpp",
+                "os_path_start_line": 103.0,
+                "os_path_end_line": 126.0
+}

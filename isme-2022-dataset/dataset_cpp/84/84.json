@@ -1,0 +1,41 @@
+{
+                "private_path": "private/conduit_blueprint_mpi.cpp",
+                "private_start_line": 85.0,
+                "private_end_line": 105.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "94,94",
+                                                        "os": "1837,1837"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "87,88",
+                                        "os": "1830,1831"
+                                    },
+                                    {
+                                        "private": "94,102",
+                                        "os": "1837,1845"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 1828.0,
+                "os_path_end_line": 1848.0
+}

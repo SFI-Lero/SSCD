@@ -1,0 +1,50 @@
+{
+                "private_path": "private/conduit_relay_zfp.cpp",
+                "private_start_line": 132.0,
+                "private_end_line": 148.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "137,137",
+                                                        "os": "224,224"
+                                                    },
+                                                    {
+                                                        "private": "141,141",
+                                                        "os": "229,229"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "137,137",
+                                                        "os": "224,224"
+                                                    },
+                                                    {
+                                                        "private": "141,141",
+                                                        "os": "229,229"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "234,234"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/Transactions.cpp",
+                "os_path_start_line": 218.0,
+                "os_path_end_line": 237.0
+}

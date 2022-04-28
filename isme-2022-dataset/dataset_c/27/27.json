@@ -1,0 +1,37 @@
+{
+                "private_path": "private/elv.c",
+                "private_start_line": 222,
+                "private_end_line": 250,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "229,233",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "238,241",
+                                        "os": "242,245"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/dedupe.c",
+                "os_path_start_line": 231,
+                "os_path_end_line": 254
+}

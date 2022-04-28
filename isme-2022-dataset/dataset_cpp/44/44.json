@@ -1,0 +1,32 @@
+{
+                "private_path": "private/conduit_relay_io_convert_exe.cpp",
+                "private_start_line": 161.0,
+                "private_end_line": 178.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "161,176",
+                                        "os": "90,105"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/LinkBaseExtensionPyImp.cpp",
+                "os_path_start_line": 91.0,
+                "os_path_end_line": 107.0
+}

@@ -1,0 +1,41 @@
+{
+                "private_path": "private/oregon_scientific_sl109h.c",
+                "private_start_line": 112,
+                "private_end_line": 168,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "126,130",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "157,161",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "137,147",
+                                        "os": "480,490"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/nfa.c",
+                "os_path_start_line": 460,
+                "os_path_end_line": 506
+}

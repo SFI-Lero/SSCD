@@ -1,0 +1,42 @@
+{
+                "private_path": "private/conduit_blueprint_mesh_examples_venn.cpp",
+                "private_start_line": 689.0,
+                "private_end_line": 714.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "691,691",
+                                                        "os": "1797,1797"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "691,691",
+                                                        "os": "1797,1797"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "701,703",
+                                        "os": "1807,1809"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 1795.0,
+                "os_path_end_line": 1820.0
+}

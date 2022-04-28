@@ -1,0 +1,44 @@
+{
+                "private_path": "private/conduit_relay_io_adios.cpp",
+                "private_start_line": 2339.0,
+                "private_end_line": 2373.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "2341,2342",
+                                        "os": "84,85"
+                                    },
+                                    {
+                                        "private": "2345,2349",
+                                        "os": "88,92"
+                                    },
+                                    {
+                                        "private": "2356,2357",
+                                        "os": "101,102"
+                                    },
+                                    {
+                                        "private": "2366,2367",
+                                        "os": "111,112"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/GroupExtension.cpp",
+                "os_path_start_line": 82.0,
+                "os_path_end_line": 118.0
+}

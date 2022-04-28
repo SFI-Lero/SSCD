@@ -1,0 +1,42 @@
+{
+                "private_path": "private/new_template.c",
+                "private_start_line": 265,
+                "private_end_line": 291,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "277,277",
+                                                        "os": "36,36"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "268,272",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "278,285",
+                                        "os": "37,44"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/minibatch.c",
+                "os_path_start_line": 29,
+                "os_path_end_line": 50
+}

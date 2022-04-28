@@ -1,0 +1,56 @@
+{
+                "private_path": "private/conduit_relay_io_ls_exe.cpp",
+                "private_start_line": 22.0,
+                "private_end_line": 39.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "25,25",
+                                                        "os": "74,74"
+                                                    },
+                                                    {
+                                                        "private": "37,37",
+                                                        "os": "88,88"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "28,28",
+                                                        "os": "77,77"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "28,28",
+                                                        "os": "77,77"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "85,86"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "30,31",
+                                        "os": "79,80"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/PropertyContainerPyImp.cpp",
+                "os_path_start_line": 71.0,
+                "os_path_end_line": 90.0
+}

@@ -1,0 +1,46 @@
+{
+                "private_path": "private/nexus.c",
+                "private_start_line": 106,
+                "private_end_line": 138,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "117,117",
+                                                        "os": "120,120"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "109,113",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "129,133",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "118,123",
+                                        "os": "121,126"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/misc.c",
+                "os_path_start_line": 114,
+                "os_path_end_line": 136
+}

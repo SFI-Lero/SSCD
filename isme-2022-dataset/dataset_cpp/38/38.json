@@ -1,0 +1,44 @@
+{
+                "private_path": "private/conduit_relay.cpp",
+                "private_start_line": 67.0,
+                "private_end_line": 92.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "69,69"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "72,72"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "78,78"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "91,91"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/FeaturePython.cpp",
+                "os_path_start_line": 66.0,
+                "os_path_end_line": 95.0
+}

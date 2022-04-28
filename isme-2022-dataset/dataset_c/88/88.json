@@ -1,0 +1,46 @@
+{
+                "private_path": "private/tfa_drop_30.3233.c",
+                "private_start_line": 191,
+                "private_end_line": 238,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "223,223",
+                                                        "os": "94,94"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "197,201",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "211,215",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "224,228",
+                                        "os": "95,99"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/sym.c",
+                "os_path_start_line": 73,
+                "os_path_end_line": 109
+}

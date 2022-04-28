@@ -1,0 +1,46 @@
+{
+                "private_path": "private/lacrosse_breezepro.c",
+                "private_start_line": 164,
+                "private_end_line": 188,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "180,180",
+                                                        "os": "14,14"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "171,175",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "23,23"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "181,183",
+                                        "os": "15,17"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/jaccard.c",
+                "os_path_start_line": 3,
+                "os_path_end_line": 26
+}

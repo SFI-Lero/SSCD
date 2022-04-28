@@ -1,0 +1,54 @@
+{
+                "private_path": "private/conduit_blueprint_mcarray_examples.cpp",
+                "private_start_line": 200.0,
+                "private_end_line": 224.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "203,203",
+                                                        "os": "1528,1528"
+                                                    },
+                                                    {
+                                                        "private": "220,220",
+                                                        "os": "1558,1558"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "202,202",
+                                                        "os": "1527,1527"
+                                                    },
+                                                    {
+                                                        "private": "207,207",
+                                                        "os": "1532,1532"
+                                                    },
+                                                    {
+                                                        "private": "216,216",
+                                                        "os": "1554,1554"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "1542,1553"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 1525.0,
+                "os_path_end_line": 1562.0
+}

@@ -1,0 +1,50 @@
+{
+                "private_path": "private/conduit_data_array.cpp",
+                "private_start_line": 753.0,
+                "private_end_line": 774.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "754,754",
+                                                        "os": "227,227"
+                                                    },
+                                                    {
+                                                        "private": "763,763",
+                                                        "os": "236,236"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "771,771",
+                                                        "os": "244,244"
+                                                    },
+                                                    {
+                                                        "private": "773,773",
+                                                        "os": "246,246"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "771,771",
+                                                        "os": "244,244"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/Document.cpp",
+                "os_path_start_line": 226.0,
+                "os_path_end_line": 247.0
+}

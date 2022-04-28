@@ -1,0 +1,53 @@
+{
+                "private_path": "private/oregon_scientific.c",
+                "private_start_line": 839,
+                "private_end_line": 947,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "845,849",
+                                        "os": "13,15"
+                                    },
+                                    {
+                                        "private": "866,870",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "42,55"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "71,75"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "121,122"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "911,924",
+                                        "os": "91,105"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/near_dupe_test.c",
+                "os_path_start_line": 7,
+                "os_path_end_line": 131
+}

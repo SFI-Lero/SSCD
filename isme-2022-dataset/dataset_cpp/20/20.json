@@ -1,0 +1,65 @@
+{
+                "private_path": "private/t_blueprint_mcarray_verify.cpp",
+                "private_start_line": 78.0,
+                "private_end_line": 101.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "91,91",
+                                                        "os": "117,117"
+                                                    },
+                                                    {
+                                                        "private": "92,92",
+                                                        "os": "118,118"
+                                                    },
+                                                    {
+                                                        "private": "95,95",
+                                                        "os": "121,121"
+                                                    },
+                                                    {
+                                                        "private": "98,98",
+                                                        "os": "123,123"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "85,85",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "93,93",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "96,96",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "99,99",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "105,108"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/chop.cpp",
+                "os_path_start_line": 98.0,
+                "os_path_end_line": 125.0
+}

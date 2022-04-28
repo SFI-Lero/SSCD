@@ -1,0 +1,60 @@
+{
+                "private_path": "private/conduit_relay_io_handle_sidre.cpp",
+                "private_start_line": 1233.0,
+                "private_end_line": 1252.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "1244,1244",
+                                                        "os": "82,82"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "1238,1239",
+                                                        "os": "74,75"
+                                                    },
+                                                    {
+                                                        "private": "1242,1242",
+                                                        "os": "78,78"
+                                                    },
+                                                    {
+                                                        "private": "1245,1245",
+                                                        "os": "83,83"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "1238,1239",
+                                                        "os": "74,75"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "80,81"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "1236,1237",
+                                        "os": "72,73"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/OriginGroupExtension.cpp",
+                "os_path_start_line": 69.0,
+                "os_path_end_line": 90.0
+}

@@ -1,0 +1,50 @@
+{
+                "private_path": "private/FileInfo.cpp",
+                "private_start_line": 125.0,
+                "private_end_line": 136.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "132,132",
+                                                        "os": "113,113"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence":[
+                                                    {
+                                                        "private": "131,131",
+                                                        "os": "112,112"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "127,127",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "129,129",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "114,114"
+                                    }
+                                ], 
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/adaptmatch.cpp",
+                "os_path_start_line": 108.0,
+                "os_path_end_line": 117.0
+}

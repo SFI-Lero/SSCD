@@ -1,0 +1,36 @@
+{
+                "private_path": "private/optparse.c",
+                "private_start_line": 42,
+                "private_end_line": 77,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "49,53",
+                                        "os": "227,229"
+                                    },
+                                    {
+                                        "private": "62,66",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/near_dupe.c",
+                "os_path_start_line": 220,
+                "os_path_end_line": 248
+}

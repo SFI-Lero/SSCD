@@ -1,0 +1,45 @@
+{
+                "private_path": "private/sdr.c",
+                "private_start_line": 107,
+                "private_end_line": 151,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "110,114",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "133,137",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "52,55"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "116,125",
+                                        "os": "28,37"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/soft_tfidf.c",
+                "os_path_start_line": 24,
+                "os_path_end_line": 62
+}

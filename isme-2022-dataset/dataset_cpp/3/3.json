@@ -1,0 +1,41 @@
+{
+                "private_path": "private/AxisPyImp.cpp",
+                "private_start_line": 71.0,
+                "private_end_line": 79.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [], 
+                                                "other": [
+                                                    {
+                                                        "private": "72,72",
+                                                        "os": "243,243"
+                                                    },
+                                                    {
+                                                        "private": "79,79",
+                                                        "os": "252,252"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "250,251"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/imgui_impl_sdl.cpp",
+                "os_path_start_line": 242.0,
+                "os_path_end_line": 252.0
+}

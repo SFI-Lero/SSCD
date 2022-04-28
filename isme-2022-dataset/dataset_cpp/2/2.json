@@ -1,0 +1,47 @@
+{
+                "private_path": "private/Axis.cpp",
+                "private_start_line": 53.0,
+                "private_end_line": 64.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "56,56",
+                                                        "os": "158,158"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence":[
+                                                    {
+                                                        "private": "58,58",
+                                                        "os": "161,161"
+                                                    }
+                                                ], 
+			                                    "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "168,169"
+                                    }
+                                ], 
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code":[
+                                    {
+                                        "private": "55,56",
+                                        "os": "158,159"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/imgui_impl_opengl3.cpp",
+                "os_path_start_line": 156.0,
+                "os_path_end_line": 170.0
+}

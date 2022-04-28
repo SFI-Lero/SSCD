@@ -1,0 +1,42 @@
+{
+                "private_path": "private/tpms_abarth124.c",
+                "private_start_line": 113,
+                "private_end_line": 147,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "117,117",
+                                                        "os": "642,642"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "135,139",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "118,126",
+                                        "os": "643,652"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/tblcmp.c",
+                "os_path_start_line": 638,
+                "os_path_end_line": 668
+}

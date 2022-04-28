@@ -1,0 +1,41 @@
+{
+                "private_path": "private/dsc.c",
+                "private_start_line": 286,
+                "private_end_line": 320,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "298,302",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "308,312",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "292,293",
+                                        "os": "126,127"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/crf_trainer.c",
+                "os_path_start_line": 120,
+                "os_path_end_line": 145
+}

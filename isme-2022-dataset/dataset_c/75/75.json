@@ -1,0 +1,45 @@
+{
+                "private_path": "private/rtl_433.c",
+                "private_start_line": 94,
+                "private_end_line": 148,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "99,103",
+                                        "os": "18,18"
+                                    },
+                                    {
+                                        "private": "113,117",
+                                        "os": "28,28"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "55,57"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "127,137",
+                                        "os": "37,47"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/pop3p.c",
+                "os_path_start_line": 13,
+                "os_path_end_line": 60
+}

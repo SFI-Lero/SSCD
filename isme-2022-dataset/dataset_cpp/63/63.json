@@ -1,0 +1,37 @@
+{
+                "private_path": "private/boss_falric.cpp",
+                "private_start_line": 164.0,
+                "private_end_line": 188.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "183,184",
+                                                        "os": "517,518"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "176,178",
+                                                        "os": "510,512"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_impl_dx10.cpp",
+                "os_path_start_line": 498.0,
+                "os_path_end_line": 522.0
+}

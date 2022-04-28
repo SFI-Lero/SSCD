@@ -1,0 +1,47 @@
+{
+                "private_path": "private/conduit_relay_mpi_io.cpp",
+                "private_start_line": 816.0,
+                "private_end_line": 828.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "820,825",
+                                                        "os": "663,670"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "820,825",
+                                                        "os": "663,670"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "820,825",
+                                                        "os": "663,670"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "820,825",
+                                        "os": "663,670"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/PropertyGeo.cpp",
+                "os_path_start_line": 659.0,
+                "os_path_end_line": 673.0
+}

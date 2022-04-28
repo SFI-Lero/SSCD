@@ -1,0 +1,40 @@
+{
+                "private_path": "private/conduit_relay_io_handle.cpp",
+                "private_start_line": 956.0,
+                "private_end_line": 996.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "961,962",
+                                        "os": "333,334"
+                                    },
+                                    {
+                                        "private": "982,987",
+                                        "os": "354,359"
+                                    },
+                                    {
+                                        "private": "993,994",
+                                        "os": "365,366"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ObjectIdentifier.cpp",
+                "os_path_start_line": 328.0,
+                "os_path_end_line": 368.0
+}

@@ -1,0 +1,41 @@
+{
+                "private_path": "private/infactory.c",
+                "private_start_line": 119,
+                "private_end_line": 152,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "125,129",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "133,137",
+                                        "os": "418,418"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "144,146",
+                                        "os": "425,427"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/geodb_builder.c",
+                "os_path_start_line": 408,
+                "os_path_end_line": 433
+}

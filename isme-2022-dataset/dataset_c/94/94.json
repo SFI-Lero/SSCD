@@ -1,0 +1,44 @@
+{
+                "private_path": "private/util.c",
+                "private_start_line": 347,
+                "private_end_line": 404,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "352,356",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "139,145"
+                                    },
+                                    {
+                                        "private": "375,379",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "176,186"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/transliteration_table_builder.c",
+                "os_path_start_line": 130,
+                "os_path_end_line": 196
+}

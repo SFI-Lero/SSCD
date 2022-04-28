@@ -1,0 +1,44 @@
+{
+                "private_path": "private/Factory.cpp",
+                "private_start_line": 76.0,
+                "private_end_line": 101.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "83,83",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "90,90",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "97,97",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "236,251"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/strokewidth.cpp",
+                "os_path_start_line": 212.0,
+                "os_path_end_line": 251.0
+}

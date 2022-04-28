@@ -1,0 +1,50 @@
+{
+                "private_path": "private/conduit_blueprint_mcarray.cpp",
+                "private_start_line": 441.0,
+                "private_end_line": 454.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "445,446",
+                                                        "os": "1350,1351"
+                                                    },
+                                                    {
+                                                        "private": "447,447",
+                                                        "os": "1353,1353"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "445,445",
+                                                        "os": "1350,1350"
+                                                    },
+                                                    {
+                                                        "private": "449,449",
+                                                        "os": "1355,1355"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "444,446",
+                                        "os": "1350,1352"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 1347.0,
+                "os_path_end_line": 1360.0
+}

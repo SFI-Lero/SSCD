@@ -1,0 +1,54 @@
+{
+                "private_path": "private/FreeCADGuiPy.cpp",
+                "private_start_line": 237.0,
+                "private_end_line": 281.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "265,266",
+                                                        "os": "835,836"
+                                                    }
+                                                ], 
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "270,271",
+                                                        "os": "840,841"
+                                                    }
+                                                ], 
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "237,238",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "819,819"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "828,834"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "844,850"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/docqual.cpp",
+                "os_path_start_line": 801.0,
+                "os_path_end_line": 858.0
+}

@@ -1,0 +1,55 @@
+{
+                "private_path": "private/InputSource.cpp",
+                "private_start_line": 113.0,
+                "private_end_line": 174.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "139,142",
+                                                        "os": "298,302"
+                                                    }
+                                                ], 
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "139,142",
+                                                        "os": "298,302"
+                                                    }
+                                                ], 
+                                                "other": [
+                                                    {
+                                                        "private": "165,172",
+                                                        "os": "337,344"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "268,269"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "273,276"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "310,315"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/pageiterator.cpp",
+                "os_path_start_line": 265.0,
+                "os_path_end_line": 346.0
+}

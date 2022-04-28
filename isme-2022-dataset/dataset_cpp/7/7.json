@@ -1,0 +1,50 @@
+{
+                "private_path": "private/ExceptionFactory.cpp",
+                "private_start_line": 51.0,
+                "private_end_line": 68.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "52,53",
+                                                        "os": "99,99"
+                                                    },
+                                                    {
+                                                        "private": "65,65",
+                                                        "os": "145,145"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other":[
+                                                    {
+                                                        "private": "66,66",
+                                                        "os": "146,146"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "57,57",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "59,59",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/bbgrid.cpp",
+                "os_path_start_line": 133.0,
+                "os_path_end_line": 148.0
+}

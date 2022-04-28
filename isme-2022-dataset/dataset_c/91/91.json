@@ -1,0 +1,42 @@
+{
+                "private_path": "private/tpms_elantra2012.c",
+                "private_start_line": 138,
+                "private_end_line": 164,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "151,151",
+                                                        "os": "51,51"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "145,149",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "152,154",
+                                        "os": "52,54"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/tokens.c",
+                "os_path_start_line": 43,
+                "os_path_end_line": 64
+}

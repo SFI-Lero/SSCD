@@ -1,0 +1,56 @@
+{
+                "private_path": "private/GeometryPyCXX.cpp",
+                "private_start_line": 162.0,
+                "private_end_line": 211.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "168,168",
+                                                        "os": "192,192"
+                                                    }
+                                                ], 
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "171,171",
+                                                        "os": "190,190"
+                                                    }
+                                                ], 
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "168,169",
+                                                        "os": "193,194"
+                                                    }
+                                                ],  
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "199,200"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "162,178",
+                                        "os": "185,203"
+                                    },
+                                    {
+                                        "private": "167,171",
+                                        "os": "189,194"
+                                    }
+                                ] 
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/pageiterator.cpp",
+                "os_path_start_line": 147.0,
+                "os_path_end_line": 203.0
+}

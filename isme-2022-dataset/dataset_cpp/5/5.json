@@ -1,0 +1,50 @@
+{
+                "private_path": "private/DualQuaternion.cpp",
+                "private_start_line": 116.0,
+                "private_end_line": 131.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "119,119",
+                                                        "os": "69,69"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": [
+                                                    {
+                                                        "private": "121,121",
+                                                        "os": "75,75"
+                                                    },
+                                                    {
+                                                        "private": "123,123",
+                                                        "os": "81,81"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "124,124",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "71,74"
+                                    }
+                                ], 
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/AutoTransaction.cpp",
+                "os_path_start_line": 66.0,
+                "os_path_end_line": 88.0
+}

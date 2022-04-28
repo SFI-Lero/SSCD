@@ -1,0 +1,36 @@
+{
+                "private_path": "private/digitech_xc0324.c",
+                "private_start_line": 233,
+                "private_end_line": 258,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "240,244",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "251,255",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/crf.c",
+                "os_path_start_line": 116,
+                "os_path_end_line": 132
+}

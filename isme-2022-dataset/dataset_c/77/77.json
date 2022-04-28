@@ -1,0 +1,36 @@
+{
+                "private_path": "private/r_api.c",
+                "private_start_line": 102,
+                "private_end_line": 128,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "107,111",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "934,937"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/proxymain.c",
+                "os_path_start_line": 919,
+                "os_path_end_line": 945
+}

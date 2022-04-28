@@ -1,0 +1,51 @@
+{
+                "private_path": "private/forge_of_souls.cpp",
+                "private_start_line": 319.0,
+                "private_end_line": 348.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "337,337",
+                                                        "os": "3225,3225"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "337,337",
+                                                        "os": "3225,3225"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "327,327",
+                                                        "os": "3214,3214"
+                                                    },
+                                                    {
+                                                        "private": "337,337",
+                                                        "os": "3225,3225"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "322,323",
+                                        "os": "3204,3207"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 3202.0,
+                "os_path_end_line": 3237.0
+}

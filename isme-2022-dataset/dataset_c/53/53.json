@@ -1,0 +1,40 @@
+{
+                "private_path": "private/lacrosse_wr1.c",
+                "private_start_line": 140,
+                "private_end_line": 178,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "146,150",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "259,263"
+                                    },
+                                    {
+                                        "private": "169,173",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/language_classifier_train.c",
+                "os_path_start_line": 238,
+                "os_path_end_line": 273
+}

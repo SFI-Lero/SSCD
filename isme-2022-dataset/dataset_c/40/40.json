@@ -1,0 +1,36 @@
+{
+                "private_path": "private/honeywell_cm921.c",
+                "private_start_line": 53,
+                "private_end_line": 73,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "59,63",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "59,59"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/gazetteer_data.c",
+                "os_path_start_line": 48,
+                "os_path_end_line": 64
+}

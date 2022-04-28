@@ -1,0 +1,42 @@
+{
+                "private_path": "private/ttx201.c",
+                "private_start_line": 213,
+                "private_end_line": 258,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "229,229",
+                                                        "os": "131,131"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "218,222",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "230,253",
+                                        "os": "132,155"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/transliteration_scripts_data.c",
+                "os_path_start_line": 120,
+                "os_path_end_line": 160
+}

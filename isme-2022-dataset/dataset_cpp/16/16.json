@@ -1,0 +1,68 @@
+{
+                "private_path": "private/MainCmd.cpp",
+                "private_start_line": 161.0,
+                "private_end_line": 209.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "194,194",
+                                                        "os": "95,95"
+                                                    },
+                                                    {
+                                                        "private": "196,196",
+                                                        "os": "96,96"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "187,188",
+                                                        "os": "108,109"
+                                                    }
+                                                ], 
+                                                "other": [
+                                                    {
+                                                        "private": "165,165",
+                                                        "os": "69,69"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "99,99"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "106,106"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "114,114"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "85,91"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "182,202",
+                                        "os": "93,112"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/thresholder.cpp",
+                "os_path_start_line": 65.0,
+                "os_path_end_line": 119.0
+}

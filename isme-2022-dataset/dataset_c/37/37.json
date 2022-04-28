@@ -1,0 +1,41 @@
+{
+                "private_path": "private/gt_wt_03.c",
+                "private_start_line": 90,
+                "private_end_line": 115,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "94,98",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "91,91"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "103,104",
+                                        "os": "83,84"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ftp.c",
+                "os_path_start_line": 74,
+                "os_path_end_line": 96
+}

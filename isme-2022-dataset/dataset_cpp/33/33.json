@@ -1,0 +1,36 @@
+{
+                "private_path": "private/conduit_generator.cpp",
+                "private_start_line": 2221.0,
+                "private_end_line": 2246.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "153,154"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "173,176"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/DynamicProperty.cpp",
+                "os_path_start_line": 149.0,
+                "os_path_end_line": 182.0
+}

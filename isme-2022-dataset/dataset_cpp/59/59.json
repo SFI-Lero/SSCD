@@ -1,0 +1,46 @@
+{
+                "private_path": "private/conduit_utils.cpp",
+                "private_start_line": 1087.0,
+                "private_end_line": 1104.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "1091,1092",
+                                                        "os": "318,319"
+                                                    },
+                                                    {
+                                                        "private": "1098,1098",
+                                                        "os": "325,325"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "328,331"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "1089,1090",
+                                        "os": "316,317"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/BoundBoxPyImp.cpp",
+                "os_path_start_line": 314.0,
+                "os_path_end_line": 335.0
+}

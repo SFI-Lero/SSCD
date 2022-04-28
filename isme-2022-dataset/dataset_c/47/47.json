@@ -1,0 +1,45 @@
+{
+                "private_path": "private/lacrossews.c",
+                "private_start_line": 216,
+                "private_end_line": 248,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "222,226",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "235,239",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "62,62"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "243,244",
+                                        "os": "58,59"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/graph_builder.c",
+                "os_path_start_line": 39,
+                "os_path_end_line": 65
+}

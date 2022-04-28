@@ -1,0 +1,46 @@
+{
+                "private_path": "private/conduit_relay_io_identify_protocol.cpp",
+                "private_start_line": 156.0,
+                "private_end_line": 170.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "157,157",
+                                                        "os": "439,439"
+                                                    },
+                                                    {
+                                                        "private": "160,160",
+                                                        "os": "442,442"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "159,159",
+                                                        "os": "441,441"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "165,166",
+                                        "os": "447,448"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/PropertyContainer.cpp",
+                "os_path_start_line": 438.0,
+                "os_path_end_line": 452.0
+}

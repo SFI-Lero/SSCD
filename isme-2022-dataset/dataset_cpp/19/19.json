@@ -1,0 +1,59 @@
+{
+                "private_path": "private/Matrix.cpp",
+                "private_start_line": 140.0,
+                "private_end_line": 170.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "149,149",
+                                                        "os": "833,833"
+                                                    }
+                                                ], 
+                                                "rearrangement  of a sentence": [],
+                                                "other": [
+                                                    {
+                                                        "private": "150,150",
+                                                        "os": "834,834"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "151,151",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "159,159",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "165,165",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "155,155",
+                                        "os": "844,844"
+                                    },
+                                    {
+                                        "private": "161,161",
+                                        "os": "839,839"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/cluster.cpp",
+                "os_path_start_line": 824.0,
+                "os_path_end_line": 855.0
+}

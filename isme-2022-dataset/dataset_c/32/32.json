@@ -1,0 +1,41 @@
+{
+                "private_path": "private/fineoffset_wh1050.c",
+                "private_start_line": 59,
+                "private_end_line": 91,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "63,67",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "81,85",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "73,76",
+                                        "os": "426,430"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/expand.c",
+                "os_path_start_line": 417,
+                "os_path_end_line": 441
+}

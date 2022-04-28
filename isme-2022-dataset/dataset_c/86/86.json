@@ -1,0 +1,40 @@
+{
+                "private_path": "private/somfy.c",
+                "private_start_line": 186,
+                "private_end_line": 222,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "193,197",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "208,212",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "554,557"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/string_similarity.c",
+                "os_path_start_line": 529,
+                "os_path_end_line": 559
+}

@@ -1,0 +1,46 @@
+{
+                "private_path": "private/conduit_blueprint_mesh_examples_julia.cpp",
+                "private_start_line": 815.0,
+                "private_end_line": 833.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "818,818",
+                                                        "os": "1781,1781"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "818,818",
+                                                        "os": "1781,1781"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "818,827",
+                                        "os": "1776,1785"
+                                    },
+                                    {
+                                        "private": "830,831",
+                                        "os": "1788,1789"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 1773.0,
+                "os_path_end_line": 1791.0
+}

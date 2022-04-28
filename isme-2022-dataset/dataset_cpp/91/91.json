@@ -1,0 +1,55 @@
+{
+                "private_path": "private/forge_of_souls.h",
+                "private_start_line": 67.0,
+                "private_end_line": 100.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "84,84",
+                                                        "os": "3436,3436"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "70,70",
+                                                        "os": "3429,3429"
+                                                    },
+                                                    {
+                                                        "private": "84,84",
+                                                        "os": "3436,3436"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "72,72",
+                                                        "os": "3455,3455"
+                                                    },
+                                                    {
+                                                        "private": "84,84",
+                                                        "os": "3436,3436"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "70,99",
+                                        "os": "3429,3461"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 3426.0,
+                "os_path_end_line": 3462.0
+}

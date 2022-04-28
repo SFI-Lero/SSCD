@@ -1,0 +1,46 @@
+{
+                "private_path": "private/pulse_analyzer.c",
+                "private_start_line": 68,
+                "private_end_line": 103,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "79,79",
+                                                        "os": "1146,1146"
+                                                    },
+                                                    {
+                                                        "private": "86,86",
+                                                        "os": "1151,1151"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "73,77",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "80,99",
+                                        "os": "1147,1166"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/numex.c",
+                "os_path_start_line": 1140,
+                "os_path_end_line": 1170
+}

@@ -1,0 +1,50 @@
+{
+                "private_path": "private/output_influx.c",
+                "private_start_line": 91,
+                "private_end_line": 168,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "136,136",
+                                                        "os": "39,39"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "102,106",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "119,123",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "137,149",
+                                        "os": "40,52"
+                                    },
+                                    {
+                                        "private": "162,164",
+                                        "os": "65,67"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ngrams.c",
+                "os_path_start_line": 4,
+                "os_path_end_line": 71
+}

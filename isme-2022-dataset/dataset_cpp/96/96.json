@@ -1,0 +1,50 @@
+{
+                "private_path": "private/instance_halls_of_reflection.cpp",
+                "private_start_line": 813.0,
+                "private_end_line": 842.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "820,820",
+                                                        "os": "5054,5054"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "830,830",
+                                                        "os": "5072,5072"
+                                                    },
+                                                    {
+                                                        "private": "831,831",
+                                                        "os": "5073,5073"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "816,818",
+                                        "os": "5050,5052"
+                                    },
+                                    {
+                                        "private": "820,841",
+                                        "os": "5054,5079"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 5047.0,
+                "os_path_end_line": 5080.0
+}

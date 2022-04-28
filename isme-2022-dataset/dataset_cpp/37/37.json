@@ -1,0 +1,36 @@
+{
+                "private_path": "private/conduit_node_iterator.cpp",
+                "private_start_line": 533.0,
+                "private_end_line": 566.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "59,60"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "64,64"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ExtensionContainerPyImp.cpp",
+                "os_path_start_line": 45.0,
+                "os_path_end_line": 88.0
+}

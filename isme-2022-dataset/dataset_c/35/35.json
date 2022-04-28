@@ -1,0 +1,36 @@
+{
+                "private_path": "private/gt_tmbbq05.c",
+                "private_start_line": 141,
+                "private_end_line": 168,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "105,107"
+                                    },
+                                    {
+                                        "private": "157,161",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/filter.c",
+                "os_path_start_line": 95,
+                "os_path_end_line": 120
+}

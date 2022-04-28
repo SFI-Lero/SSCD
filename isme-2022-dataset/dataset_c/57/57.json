@@ -1,0 +1,46 @@
+{
+                "private_path": "private/missil_ml0757.c",
+                "private_start_line": 134,
+                "private_end_line": 179,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "163,163",
+                                                        "os": "145,145"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "140,144",
+                                        "os": "131,131"
+                                    },
+                                    {
+                                        "private": "154,158",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "164,170",
+                                        "os": "146,152"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/logistic_regression_trainer.c",
+                "os_path_start_line": 125,
+                "os_path_end_line": 161
+}

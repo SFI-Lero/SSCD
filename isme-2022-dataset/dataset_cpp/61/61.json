@@ -1,0 +1,42 @@
+{
+                "private_path": "private/boss_bronjahm.cpp",
+                "private_start_line": 414.0,
+                "private_end_line": 441.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "424,424",
+                                                        "os": "382,382"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "417,417",
+                                                        "os": "375,375"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "421,421",
+                                                        "os": "379,379"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_impl_allegro5.cpp",
+                "os_path_start_line": 372.0,
+                "os_path_end_line": 399.0
+}

@@ -1,0 +1,59 @@
+{
+                "private_path": "private/drak_tharon_keep.h",
+                "private_start_line": 96.0,
+                "private_end_line": 122.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "96,96",
+                                                        "os": "2816,2816"
+                                                    },
+                                                    {
+                                                        "private": "120,120",
+                                                        "os": "2839,2839"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "96,96",
+                                                        "os": "2816,2816"
+                                                    },
+                                                    {
+                                                        "private": "118,118",
+                                                        "os": "2837,2837"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "96,96",
+                                                        "os": "2816,2816"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "2814,2815"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "2834,2835"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 2811.0,
+                "os_path_end_line": 2841.0
+}

@@ -1,0 +1,36 @@
+{
+                "private_path": "private/conduit_relay_io.cpp",
+                "private_start_line": 721.0,
+                "private_end_line": 748.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "723,724",
+                                        "os": "137,138"
+                                    },
+                                    {
+                                        "private": "740,741",
+                                        "os": "156,157"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/GeoFeatureGroupExtension.cpp",
+                "os_path_start_line": 135.0,
+                "os_path_end_line": 164.0
+}

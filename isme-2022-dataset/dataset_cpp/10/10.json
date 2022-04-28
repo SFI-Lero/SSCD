@@ -1,0 +1,45 @@
+{
+                "private_path": "private/FileTemplate.cpp",
+                "private_start_line": 80.0,
+                "private_end_line": 122.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "627,627"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "617,622"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "615,615"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "94,111",
+                                        "os": "595,612"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/docqual.cpp",
+                "os_path_start_line": 580.0,
+                "os_path_end_line": 636.0
+}

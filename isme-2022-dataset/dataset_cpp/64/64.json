@@ -1,0 +1,54 @@
+{
+                "private_path": "private/boss_forgemaster_garfrost.cpp",
+                "private_start_line": 359.0,
+                "private_end_line": 378.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "369,369",
+                                                        "os": "297,297"
+                                                    },
+                                                    {
+                                                        "private": "376,376",
+                                                        "os": "304,304"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "362,362",
+                                                        "os": "290,290"
+                                                    },
+                                                    {
+                                                        "private": "366,366",
+                                                        "os": "294,294"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "362,362",
+                                                        "os": "290,290"
+                                                    },
+                                                    {
+                                                        "private": "366,366",
+                                                        "os": "294,294"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_impl_glfw.cpp",
+                "os_path_start_line": 287.0,
+                "os_path_end_line": 306.0
+}

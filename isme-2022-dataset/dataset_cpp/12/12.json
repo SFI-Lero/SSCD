@@ -1,0 +1,51 @@
+{
+                "private_path": "private/FutureWatcherProgress.cpp",
+                "private_start_line": 38.0,
+                "private_end_line": 108.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "68,68",
+                                                        "os": "503,503"
+                                                    },
+                                                    {
+                                                        "private": "76,76",
+                                                        "os": "513,513"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "57,57",
+                                                        "os": "489,489"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "509,510"
+                                    }
+                                ], 
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "84,89",
+                                        "os": "544,549"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "fragment",
+                "os_path": "open_source/osdetect.cpp",
+                "os_path_start_line": 471.0,
+                "os_path_end_line": 556.0
+}

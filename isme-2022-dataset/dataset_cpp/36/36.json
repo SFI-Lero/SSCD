@@ -1,0 +1,40 @@
+{
+                "private_path": "private/conduit_node_c.cpp",
+                "private_start_line": 4804.0,
+                "private_end_line": 4818.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "99,99"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "106,106"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "114,114"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ExtensionContainer.cpp",
+                "os_path_start_line": 97.0,
+                "os_path_end_line": 118.0
+}

@@ -1,0 +1,63 @@
+{
+                "private_path": "private/conduit_blueprint_c.cpp",
+                "private_start_line": 47.0,
+                "private_end_line": 64.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "50,50",
+                                                        "os": "1330,1330"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "50,50",
+                                                        "os": "1330,1330"
+                                                    },
+                                                    {
+                                                        "private": "52,52",
+                                                        "os": "1332,1332"
+                                                    },
+                                                    {
+                                                        "private": "56,56",
+                                                        "os": "1336,1336"
+                                                    },
+                                                    {
+                                                        "private": "58,58",
+                                                        "os": "1338,1338"
+                                                    },
+                                                    {
+                                                        "private": "61,61",
+                                                        "os": "1341,1341"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "50,50",
+                                                        "os": "1330,1330"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "1326,1327"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 1324.0,
+                "os_path_end_line": 1344.0
+}

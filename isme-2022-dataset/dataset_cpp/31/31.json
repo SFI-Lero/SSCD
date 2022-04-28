@@ -1,0 +1,42 @@
+{
+                "private_path": "private/conduit_endianness.cpp",
+                "private_start_line": 163.0,
+                "private_end_line": 179.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "146,166",
+                                                        "os": "177,179"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "146,166",
+                                                        "os": "177,179"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "146,166",
+                                                        "os": "177,179"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/DocumentObserver.cpp",
+                "os_path_start_line": 176.0,
+                "os_path_end_line": 192.0
+}

@@ -1,0 +1,46 @@
+{
+                "private_path": "private/lacrosse_tx35.c",
+                "private_start_line": 182,
+                "private_end_line": 212,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "195,195",
+                                                        "os": "76,76"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "187,191",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "206,210",
+                                        "os": "87,87"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "196,199",
+                                        "os": "77,80"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/language_classifier_test.c",
+                "os_path_start_line": 67,
+                "os_path_end_line": 89
+}

@@ -1,0 +1,46 @@
+{
+                "private_path": "private/conduit_blueprint_verify_exe.cpp",
+                "private_start_line": 131.0,
+                "private_end_line": 155.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "137,137",
+                                                        "os": "248,248"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "150,153",
+                                                        "os": "257,260"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "136,136",
+                                        "os": "251,251"
+                                    },
+                                    {
+                                        "private": "154,154",
+                                        "os": "252,252"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ApplicationPy.cpp",
+                "os_path_start_line": 243.0,
+                "os_path_end_line": 266.0
+}

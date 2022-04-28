@@ -1,0 +1,36 @@
+{
+                "private_path": "private/boss_novos.cpp",
+                "private_start_line": 411.0,
+                "private_end_line": 436.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "256,257"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "266,270"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_impl_vulkan.cpp",
+                "os_path_start_line": 241.0,
+                "os_path_end_line": 272.0
+}

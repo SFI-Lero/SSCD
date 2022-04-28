@@ -1,0 +1,60 @@
+{
+                "private_path": "private/conduit_relay_io_silo.cpp",
+                "private_start_line": 1397.0,
+                "private_end_line": 1419.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "1400,1400",
+                                                        "os": "124,124"
+                                                    },
+                                                    {
+                                                        "private": "1411,1411",
+                                                        "os": "135,135"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "1400,1400",
+                                                        "os": "124,124"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "1400,1400",
+                                                        "os": "124,124"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "136,136"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "1405,1408",
+                                        "os": "129,132"
+                                    },
+                                    {
+                                        "private": "1416,1417",
+                                        "os": "141,143"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/PropertyExpressionEngine.cpp",
+                "os_path_start_line": 121.0,
+                "os_path_end_line": 146.0
+}

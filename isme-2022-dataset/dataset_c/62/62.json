@@ -1,0 +1,46 @@
+{
+                "private_path": "private/oil_standard.c",
+                "private_start_line": 129,
+                "private_end_line": 166,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "161,161",
+                                                        "os": "56,56"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "135,139",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "151,155",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "162,164",
+                                        "os": "57,59"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/mycrypt.c",
+                "os_path_start_line": 34,
+                "os_path_end_line": 61
+}

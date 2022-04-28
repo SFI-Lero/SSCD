@@ -1,0 +1,46 @@
+{
+                "private_path": "private/t_conduit_array.cpp",
+                "private_start_line": 608.0,
+                "private_end_line": 643.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "633,633",
+                                                        "os": "1442,1442"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "1426,1426"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "1454,1454"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "616,639",
+                                        "os": "1434,1458"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_tables.cpp",
+                "os_path_start_line": 1422.0,
+                "os_path_end_line": 1462.0
+}

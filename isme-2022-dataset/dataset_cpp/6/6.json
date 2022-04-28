@@ -1,0 +1,50 @@
+{
+                "private_path": "private/Exception.cpp",
+                "private_start_line": 87.0,
+                "private_end_line": 111.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "91,91",
+                                                        "os": "152,152"
+                                                    },
+                                                    {
+                                                        "private": "105,105",
+                                                        "os": "154,154"
+                                                    }
+                                                ], 
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "153,159"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "174,178"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "104,110",
+                                        "os": "153,159"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "block",
+                "os_path": "open_source/baselinedetect.cpp",
+                "os_path_start_line": 148.0,
+                "os_path_end_line": 179.0
+}

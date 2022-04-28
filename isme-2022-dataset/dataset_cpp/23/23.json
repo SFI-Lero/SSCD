@@ -1,0 +1,42 @@
+{
+                "private_path": "private/conduit_blueprint_zfparray.cpp",
+                "private_start_line": 108.0,
+                "private_end_line": 133.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "111,111",
+                                                        "os": "42,42"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "110,111",
+                                                        "os": "41,43"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "110,111",
+                                                        "os": "41,43"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/AutoTransaction.cpp",
+                "os_path_start_line": 39.0,
+                "os_path_end_line": 64.0
+}

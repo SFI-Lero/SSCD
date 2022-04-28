@@ -1,0 +1,36 @@
+{
+                "private_path": "private/maverick_et73x.c",
+                "private_start_line": 106,
+                "private_end_line": 144,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "114,118",
+                                        "os": "51,54"
+                                    },
+                                    {
+                                        "private": "129,133",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/logistic_regression.c",
+                "os_path_start_line": 43,
+                "os_path_end_line": 75
+}

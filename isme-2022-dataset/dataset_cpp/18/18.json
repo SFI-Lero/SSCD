@@ -1,0 +1,79 @@
+{
+                "private_path": "private/MainPy.cpp",
+                "private_start_line": 242.0,
+                "private_end_line": 306.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "292,292",
+                                                        "os": "153,153"
+                                                    },
+                                                    {
+                                                        "private": "293,293",
+                                                        "os": "154,154"
+                                                    }
+                                                ], 
+                                                "rearrangement  of a sentence": [],
+                                                "other": [
+                                                    {
+                                                        "private": "270,273",
+                                                        "os": "127,128"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "246,246",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "254,254",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "263,263",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "280,280",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "284,284",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "290,290",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "111,111"
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "129,138"
+                                    }
+                                ], 
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "259,262",
+                                        "os": "117,121"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/shapeclassifier.cpp",
+                "os_path_start_line": 98.0,
+                "os_path_end_line": 156.0
+}

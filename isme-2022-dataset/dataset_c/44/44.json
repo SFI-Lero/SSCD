@@ -1,0 +1,40 @@
+{
+                "private_path": "private/insteon.c",
+                "private_start_line": 486,
+                "private_end_line": 509,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "466,466"
+                                    },
+                                    {
+                                        "private": "495,499",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "475,479"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/geonames.c",
+                "os_path_start_line": 462,
+                "os_path_end_line": 486
+}

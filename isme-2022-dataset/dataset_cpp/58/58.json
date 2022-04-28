@@ -1,0 +1,59 @@
+{
+                "private_path": "private/conduit_schema.cpp",
+                "private_start_line": 1737.0,
+                "private_end_line": 1755.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "1741,1741",
+                                                        "os": "66,66"
+                                                    },
+                                                    {
+                                                        "private": "1751,1751",
+                                                        "os": "79,79"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "1739,1739",
+                                                        "os": "64,64"
+                                                    },
+                                                    {
+                                                        "private": "1746,1746",
+                                                        "os": "72,72"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "74,74"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "1742,1743",
+                                        "os": "68,69"
+                                    },
+                                    {
+                                        "private": "1747,1748",
+                                        "os": "75,76"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/VRMLObject.cpp",
+                "os_path_start_line": 62.0,
+                "os_path_end_line": 83.0
+}

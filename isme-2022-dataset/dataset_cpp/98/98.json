@@ -1,0 +1,46 @@
+{
+                "private_path": "private/pit_of_saron.cpp",
+                "private_start_line": 369.0,
+                "private_end_line": 400.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "388,388",
+                                                        "os": "6291,6291"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "387,387",
+                                                        "os": "6290,6290"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "379,382",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "389,391",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 6275.0,
+                "os_path_end_line": 6299.0
+}

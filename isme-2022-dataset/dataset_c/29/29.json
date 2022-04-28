@@ -1,0 +1,41 @@
+{
+                "private_path": "private/ert_idm.c",
+                "private_start_line": 712,
+                "private_end_line": 735,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "718,722",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "",
+                                        "os": "166,166"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "730,732",
+                                        "os": "170,172"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/dnspr.c",
+                "os_path_start_line": 156,
+                "os_path_end_line": 175
+}

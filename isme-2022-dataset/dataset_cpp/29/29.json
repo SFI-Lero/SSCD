@@ -1,0 +1,54 @@
+{
+                "private_path": "private/conduit_data_type.cpp",
+                "private_start_line": 1420.0,
+                "private_end_line": 1446.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "1421,1421",
+                                                        "os": "285,285"
+                                                    },
+                                                    {
+                                                        "private": "1431,1431",
+                                                        "os": "295,295"
+                                                    },
+                                                    {
+                                                        "private": "1437,1437",
+                                                        "os": "301,301"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "1421,1421",
+                                                        "os": "285,285"
+                                                    },
+                                                    {
+                                                        "private": "1443,1443",
+                                                        "os": "307,307"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "1421,1421",
+                                                        "os": "285,285"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": []
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/DocumentObject.cpp",
+                "os_path_start_line": 284.0,
+                "os_path_end_line": 310.0
+}

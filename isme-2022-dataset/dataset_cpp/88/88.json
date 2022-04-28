@@ -1,0 +1,46 @@
+{
+                "private_path": "private/conduit_blueprint_o2mrelation_examples.cpp",
+                "private_start_line": 148.0,
+                "private_end_line": 168.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "159,159",
+                                                        "os": "2678,2678"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "2670,2671"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "151,153",
+                                        "os": "2665,2668"
+                                    },
+                                    {
+                                        "private": "159,167",
+                                        "os": "2678,2686"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 2661.0,
+                "os_path_end_line": 2687.0
+}

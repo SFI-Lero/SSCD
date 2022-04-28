@@ -1,0 +1,51 @@
+{
+                "private_path": "private/Debugger.cpp",
+                "private_start_line": 67.0,
+                "private_end_line": 87.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "70,70",
+                                                        "os": "346,346"
+                                                    }
+                                                ], 
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+			                                    "others": [
+                                                    {
+                                                        "private": "78,78",
+                                                        "os": "356,356"
+                                                    },
+                                                    {
+                                                        "private": "80,80",
+                                                        "os": "360,360"
+                                                    }
+                                                ]
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "360,360"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "84,85",
+                                        "os": "365,366"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_impl_sdl.cpp",
+                "os_path_start_line": 343.0,
+                "os_path_end_line": 370.0
+}

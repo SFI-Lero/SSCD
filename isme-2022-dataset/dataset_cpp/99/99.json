@@ -1,0 +1,47 @@
+{
+                "private_path": "private/pit_of_saron.h",
+                "private_start_line": 133.0,
+                "private_end_line": 157.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "138,138",
+                                                        "os": "1151,1151"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "138,138",
+                                                        "os": "1151,1151"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "138,138",
+                                                        "os": "1151,1151"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "138,156",
+                                        "os": "1151,1168"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui_draw.cpp",
+                "os_path_start_line": 1146.0,
+                "os_path_end_line": 1169.0
+}

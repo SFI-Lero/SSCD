@@ -1,0 +1,55 @@
+{
+                "private_path": "private/conduit_relay_io_hdf5.cpp",
+                "private_start_line": 3134.0,
+                "private_end_line": 3163.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "3144,3144",
+                                                        "os": "162,162"
+                                                    },
+                                                    {
+                                                        "private": "3152,3152",
+                                                        "os": "171,171"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "3138,3138",
+                                                        "os": "156,156"
+                                                    },
+                                                    {
+                                                        "private": "3141,3141",
+                                                        "os": "159,159"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "164,164"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "3161,3162",
+                                        "os": "180,181"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/Property.cpp",
+                "os_path_start_line": 152.0,
+                "os_path_end_line": 182.0
+}

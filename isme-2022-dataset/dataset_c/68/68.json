@@ -1,0 +1,46 @@
+{
+                "private_path": "private/philips_aj3650.c",
+                "private_start_line": 152,
+                "private_end_line": 198,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "187,187",
+                                                        "os": "115,115"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "159,163",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "172,176",
+                                        "os": ""
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "188,190",
+                                        "os": "116,118"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/ntlm.c",
+                "os_path_start_line": 90,
+                "os_path_end_line": 126
+}

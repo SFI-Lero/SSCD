@@ -1,0 +1,46 @@
+{
+                "private_path": "private/conduit_relay_web_node_viewer_server.cpp",
+                "private_start_line": 246.0,
+                "private_end_line": 269.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "251,251",
+                                                        "os": "121,121"
+                                                    },
+                                                    {
+                                                        "private": "263,263",
+                                                        "os": "132,132"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "137,138"
+                                    }
+                                ],
+                                "add/delete/modify comment": "",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "253,256",
+                                        "os": "123,126"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/PropertyUnits.cpp",
+                "os_path_start_line": 116.0,
+                "os_path_end_line": 142.0
+}

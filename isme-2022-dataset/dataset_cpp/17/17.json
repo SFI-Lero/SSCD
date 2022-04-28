@@ -1,0 +1,54 @@
+{
+                "private_path": "private/MainGui.cpp",
+                "private_start_line": 165.0,
+                "private_end_line": 208.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "172,172",
+                                                        "os": "104,104"
+                                                    },
+                                                    {
+                                                        "private": "174,174",
+                                                        "os": "106,106"
+                                                    }
+                                                ], 
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [],
+                                                "rearrangement  of a sentence": [],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "190,190",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "199,199",
+                                        "os": ""
+                                    },
+                                    {
+                                        "private": "205,205",
+                                        "os": ""
+                                    }
+                                ], 
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "184,186",
+                                        "os": "117,119"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/blobs.cpp",
+                "os_path_start_line": 92.0,
+                "os_path_end_line": 138.0
+}

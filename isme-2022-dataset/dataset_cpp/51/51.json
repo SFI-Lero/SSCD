@@ -1,0 +1,60 @@
+{
+                "private_path": "private/conduit_relay_mpi.cpp",
+                "private_start_line": 1480.0,
+                "private_end_line": 1512.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "1484,1484",
+                                                        "os": "401,401"
+                                                    },
+                                                    {
+                                                        "private": "1490,1491",
+                                                        "os": "407,408"
+                                                    },
+                                                    {
+                                                        "private": "1501,1501",
+                                                        "os": "424,424"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "1484,1484",
+                                                        "os": "401,401"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "1484,1484",
+                                                        "os": "401,401"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "413,416"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "1502,1504",
+                                        "os": "425,427"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/PropertyFile.cpp",
+                "os_path_start_line": 397.0,
+                "os_path_end_line": 435.0
+}

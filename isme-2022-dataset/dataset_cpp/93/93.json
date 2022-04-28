@@ -1,0 +1,56 @@
+{
+                "private_path": "private/halls_of_reflection.h",
+                "private_start_line": 205.0,
+                "private_end_line": 242.0,
+                "detailed information of clone fragments": {
+                                "modify within sentence": {
+                                                "add/delete identifiers, operators": [
+                                                    {
+                                                        "private": "223,223",
+                                                        "os": "4889,4889"
+                                                    }
+                                                ],
+                                                "modify identifiers, variables": "Y",
+                                                "modify operators": [
+                                                    {
+                                                        "private": "211,211",
+                                                        "os": "4873,4873"
+                                                    },
+                                                    {
+                                                        "private": "223,223",
+                                                        "os": "4889,4889"
+                                                    }
+                                                ],
+                                                "rearrangement  of a sentence": [
+                                                    {
+                                                        "private": "223,223",
+                                                        "os": "4889,4889"
+                                                    }
+                                                ],
+                                                "other": []
+                                },
+                                "add/delete sentence": [
+                                    {
+                                        "private": "",
+                                        "os": "4869,4870"
+                                    }
+                                ],
+                                "add/delete/modify comment": "Y",
+                                "rearrangement of code": [
+                                    {
+                                        "private": "211,239",
+                                        "os": "4873,4903"
+                                    }
+                                ]
+                },
+                "Type": "",
+                "Scenarios": {
+                                "should be identify": "Y",
+                                "scenario": "commuinty code",
+                                "specific scenario": "similar algorithm or function"
+                },
+                "granularity": "function",
+                "os_path": "open_source/imgui.cpp",
+                "os_path_start_line": 4864.0,
+                "os_path_end_line": 4905.0
+}
