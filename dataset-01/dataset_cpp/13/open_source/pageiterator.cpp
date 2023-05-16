@@ -144,7 +144,7 @@ void PageIterator::RestartRow() {
  * This function iterates words in right-to-left scripts correctly, if
  * the appropriate language has been loaded into Tesseract.
  */
-[bool PageIterator::Next(PageIteratorLevel level) {
+bool PageIterator::Next(PageIteratorLevel level) {
   if (it_->block() == nullptr) return false;  // Already at the end!
   if (it_->word() == nullptr)
     level = RIL_BLOCK;
@@ -200,7 +200,7 @@ bool PageIterator::IsAtBeginningOf(PageIteratorLevel level) const {
       return true;
   }
   return false;
-}]
+}
 
 /**
  * Returns whether the iterator is positioned at the last element in a

@@ -1,7 +1,7 @@
 {
                 "private_path": "private/lacrosse_th3.c",
                 "private_start_line": 67,
-                "private_end_line": 108,
+                "private_end_line": 109,
                 "detailed information of clone fragments": {
                                 "modify within sentence": {
                                                 "add/delete identifiers, operators": [],
@@ -20,7 +20,7 @@
                                         "os": "26,29"
                                     },
                                     {
-                                        "private": "95,99",
+                                        "private": "96,100",
                                         "os": ""
                                     }
                                 ],

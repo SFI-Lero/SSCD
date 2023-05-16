@@ -118,7 +118,7 @@ AutoT::~AutoT() {
     FC_TRACE("before destruct auto Transaction " << Active_G);
     if(Active_G>5)
         ++Active_G;
-    } else if(++Active_G == 0) {
+    else if(++Active_G == 0) {
         try {
             GetApplication().closeActiveTransaction(abort,abort?0:tid);
             tid = 0;

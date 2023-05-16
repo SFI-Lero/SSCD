@@ -77,6 +77,7 @@ int main(int argc, char **argv) {
     char add_var_3[10]="hello";
     add_var_1 = 0;
     add_var_2 = 'a';
+    if (argc >= 3) {
         dir = argv[1];
         address = strdup(argv[2]);
     } else {

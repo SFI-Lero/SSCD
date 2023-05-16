@@ -47,7 +47,7 @@
                                 "scenario": "commuinty code",
                                 "specific scenario": "similar algorithm or function"
                 },
-                "granularity": "function",
+                "granularity": "block",
                 "os_path": "open_source/blobs.cpp",
                 "os_path_start_line": 92.0,
                 "os_path_end_line": 138.0

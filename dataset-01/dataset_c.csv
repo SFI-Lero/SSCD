@@ -8,7 +8,7 @@ dataset_c/25/private/ecodhome.c,206,229,dataset_c/25/open_source/crf_trainer_ave
 dataset_c/26/private/efergy_optical.c,156,171,dataset_c/26/open_source/datatypes.c,230,240,function
 dataset_c/27/private/elv.c,222,250,dataset_c/27/open_source/dedupe.c,231,254,function
 dataset_c/28/private/emontx.c,166,197,dataset_c/28/open_source/dfa.c,183,206,function
-dataset_c/29/private/ert_idm.c,712,735,dataset_c/29/open_source/dnspr.c,156,175,function
+dataset_c/29/private/ert_idm.c,712,735,dataset_c/29/open_source/dnspr.c,156,175,block
 dataset_c/30/private/fileformat.c,351,383,dataset_c/30/open_source/double_metaphone.c,30,53,function
 dataset_c/31/private/fineoffset.c,1091,1116,dataset_c/31/open_source/ecs.c,39,67,function
 dataset_c/32/private/fineoffset_wh1050.c,59,91,dataset_c/32/open_source/expand.c,417,441,function
@@ -29,7 +29,7 @@ dataset_c/46/private/lacrosse.c,197,230,dataset_c/46/open_source/graph.c,92,123,
 dataset_c/47/private/lacrossews.c,216,248,dataset_c/47/open_source/graph_builder.c,39,65,function
 dataset_c/48/private/lacrosse_breezepro.c,164,188,dataset_c/48/open_source/jaccard.c,3,26,function
 dataset_c/49/private/lacrosse_r1.c,135,154,dataset_c/49/open_source/language_classifier.c,245,268,function
-dataset_c/50/private/lacrosse_th3.c,67,108,dataset_c/50/open_source/language_classifier_cli.c,10,49,function
+dataset_c/50/private/lacrosse_th3.c,67,109,dataset_c/50/open_source/language_classifier_cli.c,10,49,function
 dataset_c/51/private/lacrosse_tx141x.c,314,348,dataset_c/51/open_source/language_classifier_io.c,73,98,function
 dataset_c/52/private/lacrosse_tx35.c,182,212,dataset_c/52/open_source/language_classifier_test.c,67,89,function
 dataset_c/53/private/lacrosse_wr1.c,140,178,dataset_c/53/open_source/language_classifier_train.c,238,273,function
@@ -58,8 +58,8 @@ dataset_c/75/private/rtl_433.c,94,148,dataset_c/75/open_source/pop3p.c,13,60,fun
 dataset_c/76/private/rubicson_48659.c,152,189,dataset_c/76/open_source/proxy.c,158,185,function
 dataset_c/77/private/r_api.c,102,128,dataset_c/77/open_source/proxymain.c,919,945,function
 dataset_c/78/private/r_util.c,26,55,dataset_c/78/open_source/regex.c,46,65,function
-dataset_c/79/private/s3318p.c,118,135,dataset_c/79/open_source/regularization.c,4,17,function
-dataset_c/80/private/schraeder.c,36,60,dataset_c/80/open_source/scanflags.c,40,57,function
+dataset_c/79/private/s3318p.c,118,135,dataset_c/79/open_source/regularization.c,5,17,function
+dataset_c/80/private/schraeder.c,35,60,dataset_c/80/open_source/scanflags.c,39,57,block
 dataset_c/81/private/scmplus.c,29,103,dataset_c/81/open_source/shuffle.c,34,104,function
 dataset_c/82/private/sdr.c,107,151,dataset_c/82/open_source/soft_tfidf.c,24,62,function
 dataset_c/83/private/secplus_v1.c,51,81,dataset_c/83/open_source/sparse_matrix.c,132,153,function

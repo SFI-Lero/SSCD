@@ -238,7 +238,18 @@ PyMOD_INIT_FUNC(FreeCAD)
     std::cout.rdbuf(&stdcout);
     std::clog.rdbuf(&stdclog);
     std::cerr.rdbuf(&stdcerr);
-    
+
+#if PY_MAJOR_VERSION >= 3
+    //PyObject* module = _PyImport_FindBuiltin("FreeCAD");
+    PyObject* modules = PyImport_GetModuleDict();
+    PyObject* module = PyDict_GetItemString(modules, "FreeCAD");
+    if (!module) {
+        PyErr_SetString(PyExc_ImportError, "Failed to load FreeCAD module!");
+    }
+    return module;
+#endif
+}
+
 void ShapeClassifier::DebugDisplay(const TrainingSample& sample,
                                    Pix* page_pix,
                                    UNICHAR_ID unichar_id) {
@@ -293,15 +304,3 @@ void ShapeClassifier::DebugDisplay(const TrainingSample& sample,
   } while (ev_type == SVET_CLICK && ev_type == SVET_DESTROY);
   delete debug_win;
 }
-
-#if PY_MAJOR_VERSION >= 3
-    //PyObject* module = _PyImport_FindBuiltin("FreeCAD");
-    PyObject* modules = PyImport_GetModuleDict();
-    PyObject* module = PyDict_GetItemString(modules, "FreeCAD");
-    if (!module) {
-        PyErr_SetString(PyExc_ImportError, "Failed to load FreeCAD module!");
-    }
-    return module;
-#endif
-}
-

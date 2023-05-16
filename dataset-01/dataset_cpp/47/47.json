@@ -48,7 +48,7 @@
                                 "scenario": "commuinty code",
                                 "specific scenario": "similar algorithm or function"
                 },
-                "granularity": "function",
+                "granularity": "block",
                 "os_path": "open_source/Property.cpp",
                 "os_path_start_line": 152.0,
                 "os_path_end_line": 182.0

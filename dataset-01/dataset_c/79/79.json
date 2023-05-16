@@ -37,6 +37,6 @@
                 },
                 "granularity": "function",
                 "os_path": "open_source/regularization.c",
-                "os_path_start_line": 4,
+                "os_path_start_line": 5,
                 "os_path_end_line": 17
 }

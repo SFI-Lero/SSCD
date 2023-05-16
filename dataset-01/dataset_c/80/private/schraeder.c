@@ -31,8 +31,8 @@ Packet payload: 1 sync nibble and 8 bytes data, 17 nibbles:
 */
 
 #include "decoder.h"
-
 // ccfinderx test dataset start
+void
 sf_push (void)
 {
     if (_sf_top_ix + 1 >= _sf_max) {

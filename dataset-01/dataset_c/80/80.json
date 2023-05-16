@@ -1,6 +1,6 @@
 {
                 "private_path": "private/schraeder.c",
-                "private_start_line": 36,
+                "private_start_line": 35,
                 "private_end_line": 60,
                 "detailed information of clone fragments": {
                                 "modify within sentence": {
@@ -29,8 +29,8 @@
                                 "scenario": "commuinty code",
                                 "specific scenario": "similar algorithm or function"
                 },
-                "granularity": "function",
+                "granularity": "block",
                 "os_path": "open_source/scanflags.c",
-                "os_path_start_line": 40,
+                "os_path_start_line": 39,
                 "os_path_end_line": 57
 }

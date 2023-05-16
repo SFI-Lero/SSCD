@@ -1,6 +1,6 @@
 {
                 "private_path": "private/MainPy.cpp",
-                "private_start_line": 242.0,
+                "private_start_line": 253.0,
                 "private_end_line": 306.0,
                 "detailed information of clone fragments": {
                                 "modify within sentence": {
@@ -8,45 +8,45 @@
                                                 "modify identifiers, variables": "",
                                                 "modify operators": [
                                                     {
-                                                        "private": "292,292",
+                                                        "private": "303,303",
                                                         "os": "153,153"
                                                     },
                                                     {
-                                                        "private": "293,293",
+                                                        "private": "304,304",
                                                         "os": "154,154"
                                                     }
                                                 ], 
                                                 "rearrangement  of a sentence": [],
                                                 "other": [
                                                     {
-                                                        "private": "270,273",
+                                                        "private": "281,284",
                                                         "os": "127,128"
                                                     }
                                                 ]
                                 },
                                 "add/delete sentence": [
                                     {
-                                        "private": "246,246",
+                                        "private": "257,257",
                                         "os": ""
                                     },
                                     {
-                                        "private": "254,254",
+                                        "private": "265,265",
                                         "os": ""
                                     },
                                     {
-                                        "private": "263,263",
+                                        "private": "274,274",
                                         "os": ""
                                     },
                                     {
-                                        "private": "280,280",
+                                        "private": "291,291",
                                         "os": ""
                                     },
                                     {
-                                        "private": "284,284",
+                                        "private": "295,295",
                                         "os": ""
                                     },
                                     {
-                                        "private": "290,290",
+                                        "private": "301,301",
                                         "os": ""
                                     },
                                     {
@@ -61,7 +61,7 @@
                                 "add/delete/modify comment": "Y",
                                 "rearrangement of code": [
                                     {
-                                        "private": "259,262",
+                                        "private": "270,273",
                                         "os": "117,121"
                                     }
                                 ]
